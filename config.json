@@ -15,6 +15,14 @@
       "compressed_path": "./photos/Guangzhou/ex_20190929-IMG_7109.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Guangzhou/ex_20190929-IMG_7109.placeholder.jpg"
+    },
+    {
+      "width": 4770,
+      "height": 3180,
+      "path": "./photos/Guangzhou/ex_20191227-IMG_7337.jpg",
+      "compressed_path": "./photos/Guangzhou/ex_20191227-IMG_7337.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Guangzhou/ex_20191227-IMG_7337.placeholder.jpg"
     }
   ],
   "Qingyuan": [
@@ -115,6 +123,22 @@
       "compressed_path": "./photos/Shenzhen/ex_20200804-IMG_8143.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Shenzhen/ex_20200804-IMG_8143.placeholder.jpg"
+    },
+    {
+      "width": 3342,
+      "height": 5013,
+      "path": "./photos/Shenzhen/ex_20200808-IMG_8164.jpg",
+      "compressed_path": "./photos/Shenzhen/ex_20200808-IMG_8164.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Shenzhen/ex_20200808-IMG_8164.placeholder.jpg"
+    },
+    {
+      "width": 3419,
+      "height": 5128,
+      "path": "./photos/Shenzhen/ex_20200808-IMG_8171.jpg",
+      "compressed_path": "./photos/Shenzhen/ex_20200808-IMG_8171.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Shenzhen/ex_20200808-IMG_8171.placeholder.jpg"
     }
   ]
 }
