@@ -1,4 +1,30 @@
 {
+  "Birds": [
+    {
+      "width": 2487,
+      "height": 3731,
+      "path": "./photos/Birds/ex_20200719-IMG_7914.jpg",
+      "compressed_path": "./photos/Birds/ex_20200719-IMG_7914.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Birds/ex_20200719-IMG_7914.placeholder.jpg"
+    },
+    {
+      "width": 2503,
+      "height": 3754,
+      "path": "./photos/Birds/ex_20200726-IMG_7962.jpg",
+      "compressed_path": "./photos/Birds/ex_20200726-IMG_7962.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Birds/ex_20200726-IMG_7962.placeholder.jpg"
+    },
+    {
+      "width": 2948,
+      "height": 4422,
+      "path": "./photos/Birds/ex_20200804-IMG_8101.jpg",
+      "compressed_path": "./photos/Birds/ex_20200804-IMG_8101.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Birds/ex_20200804-IMG_8101.placeholder.jpg"
+    }
+  ],
   "Guangzhou": [
     {
       "width": 3251,
@@ -25,6 +51,40 @@
       "placeholder_path": "./photos/Guangzhou/ex_20191227-IMG_7337.placeholder.jpg"
     }
   ],
+  "Plants": [
+    {
+      "width": 3351,
+      "height": 5026,
+      "path": "./photos/Plants/ex_20200410-IMG_7506.jpg",
+      "compressed_path": "./photos/Plants/ex_20200410-IMG_7506.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Plants/ex_20200410-IMG_7506.placeholder.jpg"
+    },
+    {
+      "width": 4206,
+      "height": 2804,
+      "path": "./photos/Plants/ex_20200705-IMG_7587.jpg",
+      "compressed_path": "./photos/Plants/ex_20200705-IMG_7587.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Plants/ex_20200705-IMG_7587.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Plants/ex_20200705-IMG_7656.jpg",
+      "compressed_path": "./photos/Plants/ex_20200705-IMG_7656.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Plants/ex_20200705-IMG_7656.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Plants/ex_20200726-IMG_7928.jpg",
+      "compressed_path": "./photos/Plants/ex_20200726-IMG_7928.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Plants/ex_20200726-IMG_7928.placeholder.jpg"
+    }
+  ],
   "Qingyuan": [
     {
       "width": 5077,
@@ -45,28 +105,12 @@
   ],
   "Shenzhen": [
     {
-      "width": 3351,
-      "height": 5026,
-      "path": "./photos/Shenzhen/ex_20200410-IMG_7506.jpg",
-      "compressed_path": "./photos/Shenzhen/ex_20200410-IMG_7506.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Shenzhen/ex_20200410-IMG_7506.placeholder.jpg"
-    },
-    {
       "width": 3429,
       "height": 5144,
       "path": "./photos/Shenzhen/ex_20200705-IMG_7557.jpg",
       "compressed_path": "./photos/Shenzhen/ex_20200705-IMG_7557.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Shenzhen/ex_20200705-IMG_7557.placeholder.jpg"
-    },
-    {
-      "width": 4206,
-      "height": 2804,
-      "path": "./photos/Shenzhen/ex_20200705-IMG_7587.jpg",
-      "compressed_path": "./photos/Shenzhen/ex_20200705-IMG_7587.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Shenzhen/ex_20200705-IMG_7587.placeholder.jpg"
     },
     {
       "width": 3333,
@@ -93,14 +137,6 @@
       "placeholder_path": "./photos/Shenzhen/ex_20200719-IMG_7838.placeholder.jpg"
     },
     {
-      "width": 2487,
-      "height": 3731,
-      "path": "./photos/Shenzhen/ex_20200719-IMG_7914.jpg",
-      "compressed_path": "./photos/Shenzhen/ex_20200719-IMG_7914.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Shenzhen/ex_20200719-IMG_7914.placeholder.jpg"
-    },
-    {
       "width": 5184,
       "height": 3456,
       "path": "./photos/Shenzhen/ex_20200730-IMG_8042.jpg",
@@ -115,6 +151,14 @@
       "compressed_path": "./photos/Shenzhen/ex_20200730-IMG_8063.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Shenzhen/ex_20200730-IMG_8063.placeholder.jpg"
+    },
+    {
+      "width": 3394,
+      "height": 5091,
+      "path": "./photos/Shenzhen/ex_20200804-IMG_8090.jpg",
+      "compressed_path": "./photos/Shenzhen/ex_20200804-IMG_8090.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Shenzhen/ex_20200804-IMG_8090.placeholder.jpg"
     },
     {
       "width": 3456,
