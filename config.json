@@ -51,6 +51,24 @@
       "placeholder_path": "./photos/Guangzhou/ex_20191227-IMG_7337.placeholder.jpg"
     }
   ],
+  "Makerfaire": [
+    {
+      "width": 3456,
+      "height": 5184,
+      "path": "./photos/Makerfaire/ex_20191109-IMG_7273.jpg",
+      "compressed_path": "./photos/Makerfaire/ex_20191109-IMG_7273.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Makerfaire/ex_20191109-IMG_7273.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Makerfaire/ex_20191109-IMG_7284.jpg",
+      "compressed_path": "./photos/Makerfaire/ex_20191109-IMG_7284.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Makerfaire/ex_20191109-IMG_7284.placeholder.jpg"
+    }
+  ],
   "Plants": [
     {
       "width": 3351,
