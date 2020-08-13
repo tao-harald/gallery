@@ -25,6 +25,32 @@
       "placeholder_path": "./photos/Birds/ex_20200804-IMG_8101.placeholder.jpg"
     }
   ],
+  "Countryside": [
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Countryside/ex_20200813-IMG_8265.jpg",
+      "compressed_path": "./photos/Countryside/ex_20200813-IMG_8265.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Countryside/ex_20200813-IMG_8265.placeholder.jpg"
+    },
+    {
+      "width": 3456,
+      "height": 5184,
+      "path": "./photos/Countryside/ex_20200813-IMG_8281.jpg",
+      "compressed_path": "./photos/Countryside/ex_20200813-IMG_8281.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Countryside/ex_20200813-IMG_8281.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Countryside/ex_20200813-IMG_8284.jpg",
+      "compressed_path": "./photos/Countryside/ex_20200813-IMG_8284.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Countryside/ex_20200813-IMG_8284.placeholder.jpg"
+    }
+  ],
   "Guangzhou": [
     {
       "width": 3251,
