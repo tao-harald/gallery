@@ -51,6 +51,24 @@
       "placeholder_path": "./photos/Countryside/ex_20200813-IMG_8284.placeholder.jpg"
     }
   ],
+  "Foods": [
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Foods/ex_20201129-IMG_8765.jpg",
+      "compressed_path": "./photos/Foods/ex_20201129-IMG_8765.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Foods/ex_20201129-IMG_8765.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Foods/ex_20201129-IMG_8768.jpg",
+      "compressed_path": "./photos/Foods/ex_20201129-IMG_8768.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Foods/ex_20201129-IMG_8768.placeholder.jpg"
+    }
+  ],
   "Guangzhou": [
     {
       "width": 3251,
@@ -77,6 +95,22 @@
       "placeholder_path": "./photos/Guangzhou/ex_20191227-IMG_7337.placeholder.jpg"
     },
     {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Guangzhou/ex_20201001-IMG_8328.jpg",
+      "compressed_path": "./photos/Guangzhou/ex_20201001-IMG_8328.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Guangzhou/ex_20201001-IMG_8328.placeholder.jpg"
+    },
+    {
+      "width": 3422,
+      "height": 5133,
+      "path": "./photos/Guangzhou/ex_20201002-IMG_8396.jpg",
+      "compressed_path": "./photos/Guangzhou/ex_20201002-IMG_8396.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Guangzhou/ex_20201002-IMG_8396.placeholder.jpg"
+    },
+    {
       "width": 5166,
       "height": 3444,
       "path": "./photos/Guangzhou/ex_20201126-IMG_8555.jpg",
@@ -99,6 +133,46 @@
       "compressed_path": "./photos/Guangzhou/ex_20201127-IMG_8658.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Guangzhou/ex_20201127-IMG_8658.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Guangzhou/ex_20201129-IMG_8718.jpg",
+      "compressed_path": "./photos/Guangzhou/ex_20201129-IMG_8718.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Guangzhou/ex_20201129-IMG_8718.placeholder.jpg"
+    },
+    {
+      "width": 5178,
+      "height": 3452,
+      "path": "./photos/Guangzhou/ex_20201129-IMG_8739.jpg",
+      "compressed_path": "./photos/Guangzhou/ex_20201129-IMG_8739.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Guangzhou/ex_20201129-IMG_8739.placeholder.jpg"
+    },
+    {
+      "width": 3456,
+      "height": 5184,
+      "path": "./photos/Guangzhou/ex_20201129-IMG_8753.jpg",
+      "compressed_path": "./photos/Guangzhou/ex_20201129-IMG_8753.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Guangzhou/ex_20201129-IMG_8753.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Guangzhou/ex_20201129-IMG_8762.jpg",
+      "compressed_path": "./photos/Guangzhou/ex_20201129-IMG_8762.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Guangzhou/ex_20201129-IMG_8762.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Guangzhou/ex_20201129-IMG_8778.jpg",
+      "compressed_path": "./photos/Guangzhou/ex_20201129-IMG_8778.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Guangzhou/ex_20201129-IMG_8778.placeholder.jpg"
     }
   ],
   "Makerfaire": [
@@ -129,12 +203,28 @@
       "placeholder_path": "./photos/Plants/ex_20200410-IMG_7506.placeholder.jpg"
     },
     {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Plants/ex_20200705-IMG_7565.jpg",
+      "compressed_path": "./photos/Plants/ex_20200705-IMG_7565.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Plants/ex_20200705-IMG_7565.placeholder.jpg"
+    },
+    {
       "width": 4206,
       "height": 2804,
       "path": "./photos/Plants/ex_20200705-IMG_7587.jpg",
       "compressed_path": "./photos/Plants/ex_20200705-IMG_7587.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Plants/ex_20200705-IMG_7587.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Plants/ex_20200705-IMG_7652.jpg",
+      "compressed_path": "./photos/Plants/ex_20200705-IMG_7652.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Plants/ex_20200705-IMG_7652.placeholder.jpg"
     },
     {
       "width": 5184,
