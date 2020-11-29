@@ -75,6 +75,30 @@
       "compressed_path": "./photos/Guangzhou/ex_20191227-IMG_7337.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Guangzhou/ex_20191227-IMG_7337.placeholder.jpg"
+    },
+    {
+      "width": 5166,
+      "height": 3444,
+      "path": "./photos/Guangzhou/ex_20201126-IMG_8555.jpg",
+      "compressed_path": "./photos/Guangzhou/ex_20201126-IMG_8555.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Guangzhou/ex_20201126-IMG_8555.placeholder.jpg"
+    },
+    {
+      "width": 3192,
+      "height": 4788,
+      "path": "./photos/Guangzhou/ex_20201127-IMG_8639.jpg",
+      "compressed_path": "./photos/Guangzhou/ex_20201127-IMG_8639.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Guangzhou/ex_20201127-IMG_8639.placeholder.jpg"
+    },
+    {
+      "width": 3456,
+      "height": 5184,
+      "path": "./photos/Guangzhou/ex_20201127-IMG_8658.jpg",
+      "compressed_path": "./photos/Guangzhou/ex_20201127-IMG_8658.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Guangzhou/ex_20201127-IMG_8658.placeholder.jpg"
     }
   ],
   "Makerfaire": [
@@ -127,6 +151,14 @@
       "compressed_path": "./photos/Plants/ex_20200726-IMG_7928.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Plants/ex_20200726-IMG_7928.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Plants/ex_20201126-IMG_8581.jpg",
+      "compressed_path": "./photos/Plants/ex_20201126-IMG_8581.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Plants/ex_20201126-IMG_8581.placeholder.jpg"
     }
   ],
   "Qingyuan": [
