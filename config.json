@@ -55,6 +55,14 @@
       "compressed_path": "./photos/Buildings/ex_20210122-IMG_9175.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Buildings/ex_20210122-IMG_9175.placeholder.jpg"
+    },
+    {
+      "width": 5130,
+      "height": 3420,
+      "path": "./photos/Buildings/ex_20210320-IMG_9530.jpg",
+      "compressed_path": "./photos/Buildings/ex_20210320-IMG_9530.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Buildings/ex_20210320-IMG_9530.placeholder.jpg"
     }
   ],
   "Flowers": [
@@ -147,6 +155,14 @@
       "compressed_path": "./photos/MISC/ex_20210122-IMG_9238.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/MISC/ex_20210122-IMG_9238.placeholder.jpg"
+    },
+    {
+      "width": 5048,
+      "height": 3365,
+      "path": "./photos/MISC/ex_20210320-IMG_9489.jpg",
+      "compressed_path": "./photos/MISC/ex_20210320-IMG_9489.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/MISC/ex_20210320-IMG_9489.placeholder.jpg"
     }
   ],
   "Nights": [
@@ -181,6 +197,14 @@
       "compressed_path": "./photos/Nights/ex_20201212-IMG_8824.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Nights/ex_20201212-IMG_8824.placeholder.jpg"
+    },
+    {
+      "width": 3256,
+      "height": 4884,
+      "path": "./photos/Nights/ex_20210306-IMG_9361.jpg",
+      "compressed_path": "./photos/Nights/ex_20210306-IMG_9361.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Nights/ex_20210306-IMG_9361.placeholder.jpg"
     }
   ],
   "Outskirts": [
@@ -239,6 +263,14 @@
       "compressed_path": "./photos/Outskirts/ex_20210122-IMG_9124.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Outskirts/ex_20210122-IMG_9124.placeholder.jpg"
+    },
+    {
+      "width": 3373,
+      "height": 5059,
+      "path": "./photos/Outskirts/ex_20210307-IMG_9455-2.jpg",
+      "compressed_path": "./photos/Outskirts/ex_20210307-IMG_9455-2.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Outskirts/ex_20210307-IMG_9455-2.placeholder.jpg"
     }
   ]
 }
