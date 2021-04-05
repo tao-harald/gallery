@@ -3,10 +3,10 @@
 #############################
 
 # The title that appears on the tab
-title: Tao Harald's Gallery
+title: Tao's Gallery
 
 # The title on the web page
-full_name: Tao Harald
+full_name: Tao
 
 # The type of layout
 # Options: ROWS, SQUARES, COLUMNS
@@ -40,7 +40,7 @@ name: Gallery
 description: Photography Portfolio
 
 # Your name, as you want it to appear underneath each post and in the footer
-author: Tao Harald
+author: Tao
 
 # Your email if you want it to be linked on the contact page
 # author_email: 
@@ -56,4 +56,3 @@ category_dir: /
 baseurl: /
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
-# url: https://tao-harald.github.io/gallery
